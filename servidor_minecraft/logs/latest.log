@@ -1,0 +1,34 @@
+[30Jan2026 00:02:14.278] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4874, y=19, z=-277}
+[30Jan2026 00:02:26.716] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4826, y=-19, z=-328}
+[30Jan2026 00:02:26.718] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4809, y=-49, z=-321}
+[30Jan2026 00:05:02.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wilsonlg has made the advancement [Rotten to the Core]
+[30Jan2026 00:05:04.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wilsonlg has made the advancement [Book of Monsters]
+[30Jan2026 00:05:17.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> veni
+[30Jan2026 00:05:28.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> como te figo que te digo que era sin cocinar
+[30Jan2026 00:05:33.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> na mentira
+[30Jan2026 00:05:37.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> mentira
+[30Jan2026 00:05:39.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[30Jan2026 00:05:40.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> si esta bien
+[30Jan2026 00:05:44.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sr_Riva> lo quieres para esa comida de dragon
+[30Jan2026 00:05:45.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> todo bein
+[30Jan2026 00:05:48.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sr_Riva> si se el crafteo xd
+[30Jan2026 00:05:55.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> lo se
+[30Jan2026 00:05:59.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> se mato xd
+[30Jan2026 00:06:02.348] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3114ms or 62 ticks
+[30Jan2026 00:06:24.930] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[30Jan2026 00:06:34.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> que le paso amis enderpels ???
+[30Jan2026 00:11:41.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sr_Riva moved wrongly!
+[30Jan2026 00:16:07.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> dormid
+[30Jan2026 00:16:42.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wilsonlg lost connection: Disconnected
+[30Jan2026 00:16:42.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wilsonlg left the game
+[30Jan2026 00:16:42.775] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Wilsonlg
+[30Jan2026 00:16:57.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wilsonlg[/10.224.155.150:64651] logged in with entity id 99194 at (-4844.303202294417, 72.0, 128.07499998807907)
+[30Jan2026 00:16:57.644] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Wilsonlg
+[30Jan2026 00:16:57.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wilsonlg joined the game
+[30Jan2026 00:16:57.664] [Server thread/INFO] [Jade/]: Syncing config to Wilsonlg (cd54cca8-cd6f-3848-be0c-1f3b1ff9bb0c)
+[30Jan2026 00:16:58.357] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Wilsonlg (20)
+[30Jan2026 00:16:58.358] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Wilsonlg
+[30Jan2026 00:16:59.269] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cd54cca8-cd6f-3848-be0c-1f3b1ff9bb0c
+[30Jan2026 00:17:00.263] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cd54cca8-cd6f-3848-be0c-1f3b1ff9bb0c
+[30Jan2026 00:17:00.264] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Wilsonlg (cd54cca8-cd6f-3848-be0c-1f3b1ff9bb0c) successfully connected to voice chat
+[30Jan2026 00:17:12.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> el directo de hoy del cap anda re uffff
